@@ -1,8 +1,8 @@
 # Multimedia Library Management System
 
-Object-Oriented Programming Project - 2019-2020, 1nd semester
+Object-Oriented Programming Project - 2019-2020, 1st semester
 
-For project description see [project statement](https://github.com/afonsojorge15/multimedia-library-management-system/ProjectGuidelines.pdf)
+For project description see [project statement](https://github.com/afonsojorge15/multimedia-library-management-system/blob/master/ProjectGuidelines.pdf)
 
 => Translation regarding non-english documents is avaiable upon request
 
